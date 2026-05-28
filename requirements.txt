@@ -1,0 +1,8 @@
+streamlit
+duckdb
+pandas
+plotly
+geopandas
+matplotlib
+xlsxwriter
+google-genai
